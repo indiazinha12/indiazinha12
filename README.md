@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there yasmin👋
 
 <!--
-**indiazinha12/indiazinha12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**indiazinha12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](link)
+A vida é **bela**.
 > Escrito por Alura Start
 
